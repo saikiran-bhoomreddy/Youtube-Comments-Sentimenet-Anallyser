@@ -6,8 +6,13 @@ name = "pypi"
 [packages]
 flask = "*"
 flask-sqlalchemy = "*"
+google-api-python-client = "*"
+pandas = "*"
+demoji = "*"
+langdetect = "*"
+textblob = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.9"
+python_version = "3.8"
